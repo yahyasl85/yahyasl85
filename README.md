@@ -2,9 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:E879C7&height=200&section=header&text=Yahya%20Ahmed&fontSize=50&fontColor=FAFAFA&fontAlignY=38&desc=Data%20Scientist%20%26%20ML%20Engineer&descSize=20&descAlignY=60" width="100%"/>
 
+<br>
+
+<a href="https://newportfolioyahyasl.lovable.app">
+  <img src="https://avatars.githubusercontent.com/u/156660134?v=4" width="150" height="150" style="border-radius:50%;" alt="Yahya Ahmed" />
+</a>
+
+<br><br>
+
 <a href="https://newportfolioyahyasl.lovable.app">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=E879C7&center=true&vCenter=true&width=650&lines=Applied+AI+%26+Machine+Learning+Engineer;9%2B+years+across+analytics%2C+ML%2C+%26+data+ops;Building+for+the+Gulf+region+%E2%80%A2+UAE+%7C+KSA+%7C+Qatar" alt="Typing SVG" />
 </a>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-7C3AED?style=for-the-badge&logoColor=FAFAFA&labelColor=11172A)](https://newportfolioyahyasl.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E879C7?style=for-the-badge&logo=linkedin&logoColor=FAFAFA&labelColor=11172A)](https://www.linkedin.com/in/yahya-ahmed-sl/)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=FAFAFA&labelColor=11172A)](mailto:yahyaahmedafro@gmail.com)
 
 </div>
 
@@ -19,8 +33,6 @@ I have **9+ years** of hands-on experience across analytics, machine learning, a
 Through my consultancy **YSL Solutions**, I help organizations turn messy data into production-grade AI systems — forecasting pipelines, fairness-aware classifiers, clinical ML, and applied NLP.
 
 🌍 I work across **English**, **Arabic** (native), and **Amharic** (working) — actively targeting **ML and Data Science roles in the Gulf region** (UAE, Saudi Arabia, Qatar) and remote.
-
-🔗 **[View the full portfolio →](https://newportfolioyahyasl.lovable.app)**
 
 ---
 
